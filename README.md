@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 My name is Roland Galgóczi
+# Hi there 👋 My name is Roland Galgóczi
 
 ---
 
