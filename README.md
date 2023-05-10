@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I am a frontend developer who focuses on writing clean, elegant and efficient code. I've been coding since late 2018. Check my socials below:
 
-[![portfolio](https://img.shields.io/badge/portfolio-00adb5?style=for-the-badge&logo=safari&logoColor=white)](https://www.rolandgalgoczi.hu/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/rolandgalgoczi/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolandgalgoczi/)
+[![portfolio](https://img.shields.io/badge/portfolio-00adb5?style=for-the-badge&logo=safari&logoColor=white)](https://www.rolandgalgoczi.hu/) [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galgoroli96) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolandgalgoczi/)
 
 In my free time I learning and improving myself contiuously. I use the following apps for learning:
 
@@ -31,7 +31,7 @@ In my free time I learning and improving myself contiuously. I use the following
 
 ---
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px"> 
@@ -86,3 +86,9 @@ In my free time I learning and improving myself contiuously. I use the following
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
 </p>
+
+---
+
+## 📫 Get in touch
+
+Feel free to contact me on my portfolio page!
