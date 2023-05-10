@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there 👋 My name is Roland Galgóczi
 
----
-
 ## 🚀 About Me
 
 `👩‍💻 Frontend Developer`
@@ -28,8 +26,6 @@ I am a frontend developer who focuses on writing clean, elegant and efficient co
 In my free time I learning and improving myself contiuously. I use the following apps for learning:
 
 [![scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)](https://www.scrimba.com/) [![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/) [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-
----
 
 ## 🛠 Languages & Tools
 
@@ -56,6 +52,8 @@ In my free time I learning and improving myself contiuously. I use the following
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a>
 </p>
+
+---
 
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin: 10px"> 
@@ -86,8 +84,6 @@ In my free time I learning and improving myself contiuously. I use the following
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
 </p>
-
----
 
 ## 📫 Get in touch
 
